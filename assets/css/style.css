@@ -1,0 +1,22 @@
+
+body 
+{
+    background-image: url("../images/vintage-concrete.png");
+    background-color: rgb(49, 26, 177);
+    
+}
+header
+{ 
+    font-size: 20px; 
+    background-color: ivory;
+    width: 20px;
+    
+}
+
+img 
+{margin: 5px;
+    width: 180px; 
+}
+
+
+
